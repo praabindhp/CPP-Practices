@@ -2,7 +2,8 @@
 
 using namespace std;
 
-int main(){
+int main()
+{
     int x = 10;
     double y = 5;
     bool result1 = x == y;

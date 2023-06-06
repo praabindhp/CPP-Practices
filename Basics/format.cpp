@@ -12,7 +12,8 @@ using namespace std;
 //     }
 // }
 
-int main(){
+int main()
+{
     cout << left;
     cout << setw(12) << "Course" << setw(12) << "Students" << endl;
     cout << "--------------------" << endl;
